@@ -1,4 +1,5 @@
 package cursor;
 
-public class SpaceShape {
+public abstract class SpaceShape extends Shape
+        implements AreaMeasurable, VolumeMeasurable {
 }

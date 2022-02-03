@@ -1,4 +1,5 @@
 package cursor;
 
-public class PlaneShape {
+public abstract class PlaneShape extends Shape
+        implements AreaMeasurable, PerimeterMeasurable {
 }

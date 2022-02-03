@@ -5,24 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01993103-fa59-4932-b8c3-5b36987e0743" name="Changes" comment="Created a structure">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursor/AreaMeasurable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursor/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursor/Cuboid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursor/PerimeterMeasurable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursor/PlaneShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursor/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursor/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursor/SpaceShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursor/Sphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursor/SquarePyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursor/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursor/Vertex2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursor/Vertex3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursor/VolumeMeasurable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursor/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursor/Cuboid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Cuboid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursor/PlaneShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/PlaneShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursor/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursor/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursor/SpaceShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/SpaceShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursor/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Sphere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursor/SquarePyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/SquarePyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursor/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursor/Vertex2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursor/Vertex3D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursor/VolumeMeasurable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/VolumeMeasurable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +124,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
