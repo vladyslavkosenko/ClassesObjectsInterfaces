@@ -1,23 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src//Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01993103-fa59-4932-b8c3-5b36987e0743" name="Changes" comment="Created a structure">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursor/AreaMeasurable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursor/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursor/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursor/PerimeterMeasurable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursor/PlaneShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursor/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursor/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursor/SpaceShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursor/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursor/SquarePyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursor/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursor/Vertex2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursor/Vertex3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursor/VolumeMeasurable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="32" />
     <option name="width" value="887" />
     <option name="height" value="826" />
   </component>
+  <component name="ProjectId" id="24aZazOIL2hWLOj2Nl56QtHPXvQ" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -73,13 +104,22 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="cursor.Main" />
       <module name="Lecture_4" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -88,5 +128,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01993103-fa59-4932-b8c3-5b36987e0743" name="Changes" comment="" />
+      <created>1643870726624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643870726624</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created a structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a structure" />
   </component>
 </project>
