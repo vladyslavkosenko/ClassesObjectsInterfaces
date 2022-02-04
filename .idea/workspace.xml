@@ -5,26 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01993103-fa59-4932-b8c3-5b36987e0743" name="Changes" comment="Created a structure">
-      <change afterPath="$PROJECT_DIR$/src/cursor/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Circle.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Cuboid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Cuboid.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture_4/cursor/PlaneShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture_4/cursor/PlaneShape.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture_4/cursor/SpaceShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture_4/cursor/SpaceShape.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Sphere.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Sphere.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Lecture_4/cursor/SquarePyramid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture_4/cursor/SquarePyramid.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Vertex2D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lecture_4/cursor/Vertex3D.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursor/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursor/Cuboid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Cuboid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursor/PlaneShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/PlaneShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursor/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursor/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursor/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursor/SpaceShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/SpaceShape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursor/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/Sphere.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursor/SquarePyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursor/SquarePyramid.java" afterDir="false" />

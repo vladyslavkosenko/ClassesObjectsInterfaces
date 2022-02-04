@@ -1,6 +1,8 @@
 package cursor;
 
 
+import java.util.Arrays;
+
 public class SquarePyramid extends SpaceShape {
     private double width;
     private double height;
@@ -24,5 +26,16 @@ public class SquarePyramid extends SpaceShape {
     public double getVolume() {
         volume = width * width * height / 3;
         return volume;
+    }
+
+    @Override
+    public String toString() {
+        return "SquarePyramid{" +
+                "vertices=" + Arrays.toString(vertices) +
+                ", width=" + width +
+                ", height=" + height +
+                ", area=" + area +
+                ", volume=" + volume +
+                '}';
     }
 }

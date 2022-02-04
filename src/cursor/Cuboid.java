@@ -1,6 +1,8 @@
 package cursor;
 
 
+import java.util.Arrays;
+
 public class Cuboid extends SpaceShape {
     private double width;
     private double height;
@@ -25,5 +27,17 @@ public class Cuboid extends SpaceShape {
     public double getVolume() {
         volume = height * width * depth;
         return volume;
+    }
+
+    @Override
+    public String toString() {
+        return "Cuboid{" +
+                "width=" + width +
+                ", height=" + height +
+                ", depth=" + depth +
+                ", area=" + area +
+                ", volume=" + volume +
+                ", vertices=" + Arrays.toString(vertices) +
+                '}';
     }
 }

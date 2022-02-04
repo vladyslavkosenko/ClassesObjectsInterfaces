@@ -29,5 +29,20 @@ public class Point {
         return z;
     }
 
+    @Override
+    public String toString() {
+        return "Point{" +
+                "x=" + x +
+                ", y=" + y +
+                '}';
+    }
+
+    public String toString1() {
+        return "Point{" +
+                "x=" + x +
+                ", y=" + y + "z=" + z +
+                '}';
+    }
+
 
 }

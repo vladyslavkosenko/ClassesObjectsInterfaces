@@ -5,6 +5,7 @@ public abstract class SpaceShape extends Shape
     public SpaceShape(Point[] vertices) {
         super(vertices);
     }
+
     @Override
     public double getArea() {
         return 0;

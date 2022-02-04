@@ -1,6 +1,8 @@
 package cursor;
 
 
+import java.util.Arrays;
+
 public class Triangle extends PlaneShape {
     private double perimeter;
     private double area;
@@ -21,6 +23,15 @@ public class Triangle extends PlaneShape {
     public double getPerimeter() {
         perimeter = distance(getVertices()[0], getVertices()[1]) + distance(getVertices()[1], getVertices()[2]) + distance(getVertices()[0], getVertices()[2]);
         return perimeter;
+    }
+
+    @Override
+    public String toString() {
+        return "Triangle{" +
+                "vertices=" + Arrays.toString(vertices) +
+                ", perimeter=" + perimeter +
+                ", area=" + area +
+                '}';
     }
 }
 

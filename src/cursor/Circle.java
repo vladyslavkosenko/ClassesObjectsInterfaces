@@ -1,6 +1,8 @@
 package cursor;
 
 
+import java.util.Arrays;
+
 public class Circle extends PlaneShape {
     private double radius;
     private double perimeter;
@@ -21,5 +23,15 @@ public class Circle extends PlaneShape {
     public double getPerimeter() {
         perimeter = 2 * radius * Math.PI;
         return perimeter;
+    }
+
+    @Override
+    public String toString() {
+        return "Circle{" +
+                "radius=" + radius +
+                ", perimeter=" + perimeter +
+                ", area=" + area +
+                ", vertices=" + Arrays.toString(vertices) +
+                '}';
     }
 }

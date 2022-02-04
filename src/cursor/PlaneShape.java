@@ -5,6 +5,7 @@ public abstract class PlaneShape extends Shape
     public PlaneShape(Point[] vertices) {
         super(vertices);
     }
+
     @Override
     public double getPerimeter() {
         return 0;
