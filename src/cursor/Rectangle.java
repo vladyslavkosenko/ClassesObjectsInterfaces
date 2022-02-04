@@ -1,17 +1,27 @@
 package cursor;
 
-import java.util.Arrays;
 
 public class Rectangle extends PlaneShape {
+    private double perimeter;
+    private double area;
+    private double width;
+    private double height;
+    public Rectangle(Point[] vertices, double width, double height) {
+        super(vertices);
+        this.width = width;
+        this.height = height;
+    }
 
     @Override
     public double getArea() {
-        return 0;
+        area = height * width;
+        return area;
     }
 
     @Override
     public double getPerimeter() {
-        return 0;
+        perimeter = (height + width) * 2;
+        return perimeter;
     }
 }
 

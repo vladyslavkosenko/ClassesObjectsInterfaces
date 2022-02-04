@@ -2,16 +2,25 @@ package cursor;
 
 
 public class Triangle extends PlaneShape {
+    private double perimeter;
+    private double area;
 
+
+    public Triangle(Point[] vertices) {
+        super(vertices);
+    }
 
     @Override
     public double getArea() {
-        return 0;
+        double p = perimeter / 2;
+        area = Math.sqrt(p * (p - distance(getVertices()[0], getVertices()[1])) * (p - distance(getVertices()[1], getVertices()[2])) * (p - distance(getVertices()[0], getVertices()[2])));
+        return area;
     }
 
     @Override
     public double getPerimeter() {
-        return 0;
+        perimeter = distance(getVertices()[0], getVertices()[1]) + distance(getVertices()[1], getVertices()[2]) + distance(getVertices()[0], getVertices()[2]);
+        return perimeter;
     }
 }
 
